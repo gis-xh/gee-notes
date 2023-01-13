@@ -52,7 +52,10 @@ nav:
     - GEE 实操 3 GEE Python API 的配置与使用: luojia/demo03.md
     - GEE 实操 4 Geemap 包的介绍与使用: luojia/demo04.md
   - 论文笔记:
-    - 国内论文综述: paper-notes/01.md 
+    - 国内论文综述: paper-notes/review.md
+    - 基于 GEE 云平台的黄土高原生态修复区植被变化与归因: paper-notes/01.md
+    - 基于 GEE 的遥感生态指数时序计算: paper-notes/02.md
+
 
 # [Extensions] 扩展
 plugins:
@@ -84,5 +87,5 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # https://cdn.bytedance.com/?query=mathjax&version=3.2.0
 extra_css:
-  - mkdocs/css/no-footer.css # 不使用底部的翻页
+  # - mkdocs/css/no-footer.css # 不使用底部的翻页
   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols

@@ -18,7 +18,7 @@
 
 ### 2 论文笔记
 
-- [GEE 小综述](./paper-notes/01.md)
+- [GEE 小综述](./paper-notes/review.md)
 
 
 
