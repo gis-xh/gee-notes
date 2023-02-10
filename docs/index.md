@@ -20,7 +20,9 @@
 
 - [GEE 小综述](./paper-notes/review.md)
 
+### 3 ChatGPT
 
+- [国内论文综述【ChatGPT版】](./chatgpt/20230210.md)
 
 ## 参与贡献
 

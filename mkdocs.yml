@@ -55,6 +55,9 @@ nav:
     - 国内论文综述: paper-notes/review.md
     - 基于 GEE 云平台的黄土高原生态修复区植被变化与归因: paper-notes/01.md
     - 基于 GEE 的遥感生态指数时序计算: paper-notes/02.md
+  - ChatGPT:
+    - 国内论文综述【ChatGPT版】: chatgpt/20230210.md
+    - ChatGPT 建议: chatgpt/AI-suggest.md
 
 
 # [Extensions] 扩展
