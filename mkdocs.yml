@@ -51,13 +51,6 @@ nav:
     - GEE 实操 2 遥感图像的基本计算: luojia/demo02.md
     - GEE 实操 3 GEE Python API 的配置与使用: luojia/demo03.md
     - GEE 实操 4 Geemap 包的介绍与使用: luojia/demo04.md
-  - 论文笔记:
-    - 国内论文综述: paper-notes/review.md
-    - 基于 GEE 云平台的黄土高原生态修复区植被变化与归因: paper-notes/01.md
-    - 基于 GEE 的遥感生态指数时序计算: paper-notes/02.md
-  - ChatGPT:
-    - 国内论文综述【ChatGPT版】: chatgpt/20230210.md
-    - ChatGPT 建议: chatgpt/AI-suggest.md
 
 
 # [Extensions] 扩展
