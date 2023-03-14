@@ -51,6 +51,7 @@ nav:
     - GEE 实操 2 遥感图像的基本计算: luojia/demo02.md
     - GEE 实操 3 GEE Python API 的配置与使用: luojia/demo03.md
     - GEE 实操 4 Geemap 包的介绍与使用: luojia/demo04.md
+    - 还没用上 ChatGPT？那快试试全网通的 New Bing 吧！: luojia/demo05.md
 
 
 # [Extensions] 扩展
@@ -65,6 +66,8 @@ markdown_extensions:
   - pymdownx.arithmatex: # latex支持
       generic: true
   - attr_list # 给图片后面添加{width="300"}设置大小
+  - md_in_html
+  - tables
   - toc:
       permalink: true # 固定标题位置为当前位置
   - pymdownx.highlight: # 代码块高亮
@@ -85,3 +88,4 @@ extra_javascript:
 extra_css:
   # - mkdocs/css/no-footer.css # 不使用底部的翻页
   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
+  - mkdocs/css/img-center.css # 图像居中
